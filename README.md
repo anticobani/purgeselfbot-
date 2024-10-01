@@ -1,0 +1,2 @@
+# purgeselfbot-
+comandos: $, cleardms
